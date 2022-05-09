@@ -6,7 +6,7 @@ const Header = () =>{
             <a href="/">Contacts</a>
             <a href="/">Profile</a>
             <a href="/">Info</a>
-            <a href="/">Settings</a>
+            <a href="/">Users</a>
           </div>
       </div>
     )
