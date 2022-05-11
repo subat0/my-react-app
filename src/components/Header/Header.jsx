@@ -7,6 +7,8 @@ const Header = () =>{
             <a href="/">Profile</a>
             <a href="/">Info</a>
             <a href="/">Users</a>
+            <a href="/">Adres</a>
+
           </div>
       </div>
     )
